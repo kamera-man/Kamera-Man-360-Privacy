@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Kamera-Man 360 — Privacy Policy</title>
+  <style>
+    body { font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial; line-height:1.6; max-width:900px; margin:40px auto; padding:0 20px; color:#111;}
+    h1,h2 { color:#111; }
+    code { background:#f4f4f4; padding:2px 6px; border-radius:4px; }
+    footer { margin-top:40px; color:#666; font-size:0.9rem; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy — Kamera-Man 360</h1>
+  <p><strong>Last Updated:</strong> October 17, 2025</p>
+
+  <h2>Overview</h2>
+  <p>Kamera-Man 360 ("we", "our", or "the app") is committed to protecting your privacy. This policy explains how we handle your information. We do not collect personal information or send data to our servers.</p>
+
+  <h2>Information We Collect</h2>
+  <p>Kamera-Man 360 is designed with privacy in mind. We do NOT collect, store, or transmit any of your personal information to external servers.</p>
+
+  <h3>Photos &amp; Media</h3>
+  <ul>
+    <li><strong>What we access:</strong> Your photo library to find panoramic images for conversion.</li>
+    <li><strong>How we use it:</strong> Only to display images you select for conversion to Facebook 360° format.</li>
+    <li><strong>Storage:</strong> All processing happens locally on your device.</li>
+    <li><strong>Sharing:</strong> We never upload your photos to any server.</li>
+  </ul>
+
+  <h3>Location Data</h3>
+  <ul>
+    <li><strong>What we collect:</strong> GPS coordinates from photos you choose to convert (if present in the photo metadata).</li>
+    <li><strong>How we use it:</strong> To preserve location metadata in converted 360° photos.</li>
+    <li><strong>Storage:</strong> Only embedded in the photos you convert, stored locally.</li>
+    <li><strong>Sharing:</strong> Location data only leaves your device when <em>you</em> share the converted photo.</li>
+  </ul>
+
+  <h3>Camera</h3>
+  <ul>
+    <li><strong>What we access:</strong> Your device camera when you tap "Take 360°".</li>
+    <li><strong>How we use it:</strong> Only to capture new 360° photos when you initiate it.</li>
+    <li><strong>Storage:</strong> Photos are saved to your device only.</li>
+    <li><strong>Sharing:</strong> We never access your camera without your explicit action.</li>
+  </ul>
+
+  <h3>Motion &amp; Orientation</h3>
+  <ul>
+    <li><strong>What we collect:</strong> Device motion and orientation data.</li>
+    <li><strong>How we use it:</strong> To provide a smooth 360° viewing experience.</li>
+    <li><strong>Storage:</strong> Used in real-time only, not stored.</li>
+    <li><strong>Sharing:</strong> Never transmitted anywhere.</li>
+  </ul>
+
+  <h2>Data Storage</h2>
+  <ul>
+    <li>All data is stored locally on your device.</li>
+    <li>We do not maintain any external servers or databases related to user photos.</li>
+    <li>Your photos are never uploaded to cloud services by the app.</li>
+    <li>Converted photos are saved only to your device's local storage.</li>
+  </ul>
+
+  <h2>Data Sharing</h2>
+  <p>We do NOT:</p>
+  <ul>
+    <li>Share your data with third parties</li>
+    <li>Use analytics or tracking services</li>
+    <li>Collect any personally identifiable information</li>
+    <li>Transmit any data to external servers</li>
+  </ul>
+
+  <h2>Your Rights</h2>
+  <ul>
+    <li><strong>Access:</strong> All your photos remain in your device's Photos app.</li>
+    <li><strong>Delete:</strong> Remove the app to remove any converted files stored by the app on the device.</li>
+    <li><strong>Control:</strong> You choose which photos to convert and share.</li>
+  </ul>
+
+  <h2>Changes to This Policy</h2>
+  <p>We may update this privacy policy from time to time. We will notify you of any material changes by updating the "Last Updated" date on this page.</p>
+
+  <h2>Contact Us</h2>
+  <p>For privacy questions or concerns, contact us at: <strong>replace-me@example.com</strong></p>
+  <p>Replace the email address above with your actual support contact before publishing.</p>
+
+  <h2>Children's Privacy</h2>
+  <p>Kamera-Man 360 does not knowingly collect information from children under 13. If you are a parent and believe your child has provided information to us, please contact us.</p>
+
+  <footer>
+    <p>By using Kamera-Man 360, you agree to this Privacy Policy.</p>
+  </footer>
+</body>
+</html>
